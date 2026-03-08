@@ -127,3 +127,12 @@ $z=8–2–3$
 $z=3$
 
 Maka nilai x = 2, nilai y = 3, dan nilai z = 3
+
+## 1.sistem persamaan linear
+$\begin{aligned}
+x + y + z + u + v &= 15 \\
+2x + y + z + u + v &= 16 \\
+x + 2y + z + u + v &= 16 \\
+x + y + 2z + u + v &= 17 \\
+x + y + z + 2u + v &= 19
+\end{aligned}$
